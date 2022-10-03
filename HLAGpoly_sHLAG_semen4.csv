@@ -1,0 +1,4 @@
+Author,Year,n1,mean1,SD1,median1,min1,P1_1,P3_1,max1,n2,mean2,SD2,median2,min2,P1_2,P3_2,max2,subgroup
+Craenmehr,2019,29,125.3,112.3,83.2,22,41,162,418,127,624.4,825,336,22,139,755,4883,ins/ins vs ins/del+del/del
+Nilsson,2020,16,116.2,109.8,83.5,22,53.3,126.3,455,63,532,843.1,245,19,88.5,642.5,5215,ins/ins vs ins/del+del/del
+Dahl,2014,8,103.9,39.6,94.5,65,66.8,136.3,169,32,722.2,1095.1,370,23,143.3,724.8,5234,ins/ins vs ins/del+del/del

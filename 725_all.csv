@@ -1,0 +1,11 @@
+Author,Year,case1,case0,case-totol,control1,control0,control-total,subgroup
+Szmigiel,2009,13,87,100,41,193,234,Allel Model: G(T) vs C
+Nowak,2020,72,406,478,150,724,874,Allel Model: G(T) vs C
+Szmigiel,2009,13,37,50,39,78,117,Dominant Model: G(T)/G(T) and C/G(T) vs C/C
+Nowak,2020,66,173,239,139,298,437,Dominant Model: G(T)/G(T) and C/G(T) vs C/C
+Szmigiel,2009,0,50,50,2,115,117,Recessive Model: G(T)/G(T) vs and C/G(T) and C/C
+Nowak,2020,6,233,239,11,426,437,Recessive Model: G(T)/G(T) vs and C/G(T) and C/C
+Szmigiel,2009,0,37,37,2,78,80,Homozygotic Model: G(T)/G(T) vs C/C
+Nowak,2020,6,173,179,11,298,309,Homozygotic Model: G(T)/G(T) vs C/C
+Szmigiel,2009,13,37,50,37,78,115,Heterozygotic Model: C/G(T) vs C/C
+Nowak,2020,60,173,233,128,298,426,Heterozygotic Model: C/G(T) vs C/C

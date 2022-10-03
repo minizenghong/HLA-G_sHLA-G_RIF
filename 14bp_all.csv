@@ -1,0 +1,31 @@
+Author,Year,case1,case0,case-totol,control1,control0,control-total,subgroup,ethnicity
+Hviid,2004,13,15,28,81,135,216,Allel Model: +14 bp vs -14bp,Caucasian
+Szmigiel,2009,51,49,100,54,88,142,Allel Model: +14 bp vs -14bp,Caucasian
+Lashley,2014,28,20,48,75,117,192,Allel Model: +14 bp vs -14bp,Caucasian
+Enghelabifar,2014,47,33,80,40,40,80,Allel Model: +14 bp vs -14bp,Caucasian
+Nardi,2016,35,63,98,44,24,68,Allel Model: +14 bp vs -14bp,Mixed
+Nowak,2020,197,281,478,257,383,640,Allel Model: +14 bp vs -14bp,Caucasian
+Hviid,2004,9,5,14,71,37,108,Dominant Model: +14bp/+14bp and +14bp/-14bp vs -14bp/-14bp,Caucasian
+Szmigiel,2009,39,11,50,42,29,71,Dominant Model: +14bp/+14bp and +14bp/-14bp vs -14bp/-14bp,Caucasian
+Lashley,2014,22,2,24,59,37,96,Dominant Model: +14bp/+14bp and +14bp/-14bp vs -14bp/-14bp,Caucasian
+Enghelabifar,2014,40,0,40,31,9,40,Dominant Model: +14bp/+14bp and +14bp/-14bp vs -14bp/-14bp,Caucasian
+Nardi,2016,33,16,49,31,3,34,Dominant Model: +14bp/+14bp and +14bp/-14bp vs -14bp/-14bp,Mixed
+Nowak,2020,159,80,239,205,115,320,Dominant Model: +14bp/+14bp and +14bp/-14bp vs -14bp/-14bp,Caucasian
+Hviid,2004,4,10,14,10,98,108,Recessive Model: +14bp/+14bp vs +14bp/-14bp and -14bp/-14bp,Caucasian
+Szmigiel,2009,12,38,50,12,59,71,Recessive Model: +14bp/+14bp vs +14bp/-14bp and -14bp/-14bp,Caucasian
+Lashley,2014,6,18,24,16,80,96,Recessive Model: +14bp/+14bp vs +14bp/-14bp and -14bp/-14bp,Caucasian
+Enghelabifar,2014,7,33,40,9,31,40,Recessive Model: +14bp/+14bp vs +14bp/-14bp and -14bp/-14bp,Caucasian
+Nardi,2016,2,47,49,13,21,34,Recessive Model: +14bp/+14bp vs +14bp/-14bp and -14bp/-14bp,Mixed
+Nowak,2020,38,201,239,52,268,320,Recessive Model: +14bp/+14bp vs +14bp/-14bp and -14bp/-14bp,Caucasian
+Hviid,2004,4,5,9,10,37,47,Homozygotic Model: +14bp/+14bp vs -14bp/-14bp,Caucasian
+Szmigiel,2009,12,11,23,12,29,41,Homozygotic Model: +14bp/+14bp vs -14bp/-14bp,Caucasian
+Lashley,2014,6,2,8,16,37,53,Homozygotic Model: +14bp/+14bp vs -14bp/-14bp,Caucasian
+Enghelabifar,2014,7,0,7,9,9,18,Homozygotic Model: +14bp/+14bp vs -14bp/-14bp,Caucasian
+Nardi,2016,2,16,18,13,3,16,Homozygotic Model: +14bp/+14bp vs -14bp/-14bp,Mixed
+Nowak,2020,38,80,118,71,152,223,Homozygotic Model: +14bp/+14bp vs -14bp/-14bp,Caucasian
+Hviid,2004,5,5,10,61,37,98,Heterozygotic Model: +14bp/-14bp vs -14bp/-14bp,Caucasian
+Szmigiel,2009,27,11,38,30,29,59,Heterozygotic Model: +14bp/-14bp vs -14bp/-14bp,Caucasian
+Lashley,2014,16,2,18,43,37,80,Heterozygotic Model: +14bp/-14bp vs -14bp/-14bp,Caucasian
+Enghelabifar,2014,33,0,33,22,9,31,Heterozygotic Model: +14bp/-14bp vs -14bp/-14bp,Caucasian
+Nardi,2016,31,16,47,18,3,21,Heterozygotic Model: +14bp/-14bp vs -14bp/-14bp,Mixed
+Nowak,2020,121,80,201,214,152,366,Heterozygotic Model: +14bp/-14bp vs -14bp/-14bp,Caucasian
